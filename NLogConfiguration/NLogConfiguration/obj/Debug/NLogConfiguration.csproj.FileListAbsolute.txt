@@ -1,0 +1,8 @@
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\bin\Debug\NLogConfiguration.exe.config
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\bin\Debug\NLogConfiguration.exe
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\bin\Debug\NLogConfiguration.pdb
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\bin\Debug\NLog.dll
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\bin\Debug\NLog.xml
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\obj\Debug\NLogConfiguration.csprojResolveAssemblyReference.cache
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\obj\Debug\NLogConfiguration.exe
+E:\MyProjects\BLOG\NLogConfiguration\NLogConfiguration\obj\Debug\NLogConfiguration.pdb
